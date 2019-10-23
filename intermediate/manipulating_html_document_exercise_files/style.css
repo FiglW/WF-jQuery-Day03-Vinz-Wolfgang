@@ -14,7 +14,7 @@ body{
 }
 
 .prod-info-main .product-image {
-    
+    background-color: #EBF8FE;
     display: block;
     min-height: 238px;
     overflow: hidden;
@@ -22,6 +22,7 @@ body{
     border: 1px solid #CEEFFF;
     padding-top: 40px;
 }
+
 
 .prod-info-main .product-deatil {
     border-bottom: 1px solid #dfe5e9;
